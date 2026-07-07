@@ -74,6 +74,7 @@ const randomTarget = () => {
   }, 700);
 }
 document.querySelectorAll('.tables>.n1').forEach((img) => {
+  const originalSrc = img.src;
   img.addEventListener('mousedown', ()=>{
     if( clickable ){
       gameScore++;
