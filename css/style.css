@@ -79,7 +79,7 @@ h3{margin-bottom:20px;}
   .n2{transform:translateY(-5px)}
   .play>.play_area>div>.tables>img{width:100px;}
   .hammer>img{display:none;}
-  .time_section, .score_section{font-size:20px;}
+  .time_section, .score_section{font-size:20px; top:30px;}
   .time_section{right:30px;}
   .score_section{left:30px;}
   .end{
