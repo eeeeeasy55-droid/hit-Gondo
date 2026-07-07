@@ -64,9 +64,9 @@ h3{margin-bottom:20px;}
   .inst_bg{
     background:url("../images/index_background_p.jpg") no-repeat center/cover;
   }
-  h1{font-size:22px; transform:translateY(700px);}
+  h1{font-size:22px; transform:translateY(500px);}
   .start{
-    font-size:28px; top:710px; width:140px; height:140px;
+    font-size:28px; top:500px; width:140px; height:140px;
     background:url("../images/phone_bg.png") no-repeat center/cover;
   }
   .play{background:url("../images/main_background_p.jpg") no-repeat center/cover}
