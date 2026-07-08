@@ -45,7 +45,7 @@ const startGame = () => {
   countDownDisplay.style.display = 'none';
   document.body.style.cursor = 'none';
   scoreArea.textContent = gameScore;
-  timer = setInterval( countDown, 2000 ); //timer 카운트다운
+  timer = setInterval( countDown, 1000 ); //timer 카운트다운
   targetTimer = setInterval( randomTarget, 1000 ); //targetTimer 랜덤 실행
 }
 
